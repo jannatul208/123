@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(26, 122, 151);
+}
+h3
+{
+    
+    font-size: x-large;
+    font-family: fantasy;
+    font-weight: 600;
+}
+th{
+    color:rgb(17, 12, 12);
+    font-family: cursive;
+    width: 10%;
+    font-size: 40px;
+  
+} 
+.td_1{
+    font-size: 20px;
+    color: rgba(26, 25, 23, 0.781);
+    
+}
+.u_1{
+    color: darkkhaki;
+    width: 20px;
+    font-size: larger;
+    background-color: darkmagenta;
+    font-family: cursive;
+}
+.img_1{
+    border-image-outset:red;
+}
+button{
+    color: rgb(37, 30, 21);
+    border-color: darkred;
+    width: 80px;
+    
+}
+
+input{
+    border-color: firebrick;
+    border-width: 3px;
+}
+.table_1{
+    border-width: 3px;
+    border-color:black;
+    border-style: dotted;
+}
+.textarea_1{
+background-color:deeppink;
+width: 200px;
+border-style: dashed;
+border-color: indigo;
+border-width: 3px;
+font-size: 20px;
+height: 150px;
+}
+.tag_1{
+    background-image:url(../img/images.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color: lightcyan;
+    opacity: 0.5;
+   
+    
+}
+.object_1{
+    background-image:url(../img/images.jpg);
+    background-position:top;
+    opacity: 0.6;
+    background-size: cover;
+    width: 100%;
+    color: lime;
+    padding: 30px 10px;
+ 
+    
+}
+.outline_1{
+    border: 2px dotted red;
+    outline: #1d0991 solid 5px;
+    
+ 
+    
+}
+.text_1{
+    text-transform: uppercase;
+    text-justify: inherit;
+    font-family: monospace;
+    text-align: center;
+}
+.short{
+    border-radius: 50px;
+    
+    border:2px solid;
+    width:30%;
+    height:100px;
+}
+.tr_1{
+    background-color: yellow;
+}
+.tr_2{
+    background-color: rgb(255, 123, 0);
+}
+.tr_3{
+    background-color: rgba(255, 187, 0, 0.925);
+}
+.tr_4{
+    background-color: rgb(207, 18, 18);
+}
+.tr_5{
+    background-color: rgb(240, 13, 89);
+}
+.tr_6{
+    background-color: rgb(221, 13, 221);
+}
